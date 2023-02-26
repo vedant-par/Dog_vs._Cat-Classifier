@@ -1,3 +1,3 @@
 # Dog_vs._Cat-Classifier
 
-Dog vs. Cat Classifier
+A linear neural network that classifies images as dog or cat.
